@@ -11,5 +11,8 @@
     "url": "'https://github.com/Efrem-Yohanis/QA-Class.git"
   },
   "author": "Efrem",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
 }
