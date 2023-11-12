@@ -1,0 +1,15 @@
+{
+  "name": "qa-class",
+  "version": "1.0.0",
+  "description": "QA-Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'https://github.com/Efrem-Yohanis/QA-Class.git"
+  },
+  "author": "Efrem",
+  "license": "ISC"
+}
