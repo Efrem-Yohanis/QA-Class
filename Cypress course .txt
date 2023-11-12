@@ -1,15 +1,10 @@
-Cypress course zero to hero
+This course is all about Cypress, an automation testing tool. In this course, we will cover the following concepts in five chapters:
 
-  This couser is all about cypress automation testing tool and in this cours we will cover the following concept in five chapter.
+  1. Chapter 1: Introduction and Installation of Cypress
+  2. Chapter 2: Basic Concepts of Cypress
+  3. Chapter 3: Working with HTML elements
+  4. Chapter 4: Test code optimization
+  5. Chapter 5: API testing using Cypress
+  6. Project
 
-      1. Chpater 1: Introduction and installtion of cypress
-      2. Chpater 2: Basic concept of cypress
-      3. working with html element
-      4. Test code optimazetion
-      5. API Testing using cypress.
-      6. project.
-
-  For all chapere there is specific branch and you can found all code. 
- 
-  
-  
+For each chapter, there is a specific branch where you can find all the code related to that chapter.
