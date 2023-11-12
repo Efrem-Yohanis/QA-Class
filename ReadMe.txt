@@ -8,3 +8,6 @@ This course is all about Cypress, an automation testing tool. In this course, we
   6. Project
 
 For each chapter, there is a specific branch where you can find all the code related to that chapter.
+
+
+Thank you for joining us!
