@@ -1,0 +1,16 @@
+
+
+Chapter One: Introduction and Installation of Cypress
+
+In this chapter, we will cover the following points:
+
+1. How to install Cypress
+2. Writing your first Cypress code.
+
+By the end of this chapter, the students will be able to:
+
+1. Download and install Cypress
+2. Work with Cypress
+3. Write Cypress code
+
+Thank you for joining us!
